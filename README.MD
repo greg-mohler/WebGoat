@@ -1,4 +1,4 @@
-# Test 10 - updated repo name in pipeline settings
+# Test 11
 # WebGoat 8: A deliberately insecure Web Application
 
 [![Build Status](https://travis-ci.org/WebGoat/WebGoat.svg?branch=develop)](https://travis-ci.org/WebGoat/WebGoat)
