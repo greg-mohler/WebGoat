@@ -1,4 +1,4 @@
-# Test 2.2 - new logs
+# Test 2.3
 5# WebGoat 8: A deliberately insecure Web Application
 
 [![Build Status](https://travis-ci.org/WebGoat/WebGoat.svg?branch=develop)](https://travis-ci.org/WebGoat/WebGoat)
